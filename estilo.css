@@ -101,6 +101,6 @@ header{
         height: 100%;
     }
     nav li{
-        display: block;
+        display: block;/**/
     }   
 }
