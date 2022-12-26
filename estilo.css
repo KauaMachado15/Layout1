@@ -104,3 +104,22 @@ header{
         display: block;/**/
     }   
 }
+
+/*CSS do from*/
+.row:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.label{
+    float: left;
+   width: 25%;
+   margin-top: 6px;
+}
+
+.input{
+   float: left;
+   width: 75%;
+   margin-top: 6px;
+}
